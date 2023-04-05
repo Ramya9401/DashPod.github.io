@@ -31,5 +31,7 @@
 <li>Create structure for salary details as <i>salary</i> including initial salary,increment percentage,current salary,date-of-joining and assign a variable to structure as <i>sal</i>.</li>
 <li>Create structure for employee details as <i>employee</i> including pointer variable of type struct person, pointer variable of type struct salary and assign a variable to structure as <i>emp</i>.</li>
 <li>Declare variables single pointer "emp1", double pointer "new_emp" of type <i>emp</i> .</li>
-<li>assign adress of single pointer variable to double pointer variable</li>
-</ol>
+<li>Assign adress of "emp1" to "new_emp".</li>
+<li>Call <i>Create</i> function passing the adress of "new_emp" as argument.</li>
+<li>Call <i>Print</i> function passing the adress of "new_emp" as argument.</li>
+</ol>/
