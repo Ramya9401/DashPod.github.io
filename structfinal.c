@@ -1,21 +1,21 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
-typedef struct pn{
+typedef struct person{
     char fname[50];
     char lname[50];
     char dob[10];//date of birth ddmmyyyy
     
 }psn; // person structure
 
-typedef struct sa{
+typedef struct salary{
     char doj[10];//date of joining ddmmyyyy
     int initial; //initial salary
     int increment; //salary increment % 
     int current; // current salary
 }sal; //salary details structure
 
-typedef struct e0{
+typedef struct employee{
     psn *p;
     sal *s;
     struct e0 *next;
@@ -40,7 +40,7 @@ emp *emp1=NULL,**new_emp;
 
 int get_psn(psn *new_psn) // asks user to fill person details 
 {
-	int d,m,y;
+	
     printf("\nPlease enter Employee details\n");
     printf("\nFirst name : ");
     scanf("%s",new_psn->fname);
@@ -81,7 +81,6 @@ int checkpsn_name(char *name)
 
 int check_dov(char *d,char *m,char *y)
 {
-	emp *new_emp;
 	int i;
 	if((d[0]>='0'&&d[0]<='3')&&(d[1]>='0'&&d[1]<='9'))
 	{
@@ -89,7 +88,7 @@ int check_dov(char *d,char *m,char *y)
 		{
 			if(d[1]<='1');
 			else
-			return -1;
+			return -1;// we need to add re-enter the details of doj/dob and redirect to validation
 		}
 		if(d[0]=='0')
 		{
@@ -151,7 +150,7 @@ int get_sal(sal *new_sal, psn *new_psn ) // asks user to fill person details
    }
     printf("\nIncrement Salary %% : ");
     scanf("%d",&(new_sal->increment));
-    if((new_sal->increment)<=0||(new_sal->increment>100))
+    while((new_sal->increment)<=0||(new_sal->increment>100))
     {
     	printf("Re-enter increment salary");
     	 scanf("%d",&(new_sal->increment));
