@@ -6,4 +6,4 @@
 3.Algorithm<br><br>
 
 <h3>Introduction</h3>
-<p id="Introduction">This document briefs you on the program <b>Employee Details</b> using Structures.
+<p id="Introduction">The document briefs you on the program <b>Employee Details</b> using Structures. This program
