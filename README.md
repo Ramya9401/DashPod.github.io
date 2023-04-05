@@ -10,7 +10,7 @@
      <li><a href="#create">Create Employee Details</a></li>
      <li><a href="#getpsn">Get Person Details</a></li>
      <li><a href="#getsal">Get Salary Details</a></li>
-     <li>validation of name</li>
+     <li><a href="#valname">validation of name</a></li>
      <li>validation of date</li>
      <li>Print the employee details</li>
     </ul>
@@ -64,4 +64,10 @@
   <li>Check if the increment value is valid or not. if valid got next step else repeat above step.</li>
   <li>Get date-of-joining from user input into address of struct <i>sal</i> "doj" variable.</li>
   <li>Call <i>check_dov</i> funciton for validating the date by passing "doj" variable as argument. </li>
+</ol>
+
+<h4 id="valname">Validation of Name</h4>
+<ol>
+  <li>Declare a int variable i.</li>
+  <li></li>
 </ol>
