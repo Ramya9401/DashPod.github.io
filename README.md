@@ -13,3 +13,8 @@
 
 <br>
 <h3 id="algorithm">Algorithm</h3>
+<ol>
+<li>Start the Program.</li>
+<li>Create structure for person details as <i>pn</i> including firstname,lastname,date-of-birth and assign a variable to structure as <i>pn</i></li>
+<li>Create structure </li>
+</ol>
