@@ -12,7 +12,6 @@
      <li><a href="#getsal">Get Salary Details</a></li>
      <li><a href="#valname">Validation of name</a></li>
      <li><a href="#valdate">Validation of Date</a></li>
-     <li>Print the employee details</li>
     </ul>
   </li>
     </ol><br>
@@ -33,7 +32,7 @@
 <li>Declare variables single pointer "emp1", double pointer "new_emp" of type <i>emp</i> .</li>
 <li>Assign address of "emp1" to "new_emp".</li>
 <li>Call <i>Create</i> function passing the adress of "new_emp" as argument.</li>
-<li>Call <i>Print</i> function passing the adress of "new_emp" as argument.</li>
+<li>Print the Employee Details.</li>
 </ol>
 
 <h4 id="create">Create Employee Details</h4>
@@ -84,3 +83,7 @@
    <li>Check if given year is within mentioned range. </li>
   <li>If present it is valid else re-enter the date.</li>
 </ol>
+
+
+
+
