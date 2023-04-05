@@ -6,3 +6,4 @@
 3.Algorithm<br><br>
 
 <h3>Introduction</h3>
+<p>This document briefs you on the program <b>Employee Details</b> using Structures.
