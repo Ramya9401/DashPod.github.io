@@ -7,7 +7,7 @@
 <li><a href="#algorithm">Algorithms</a>
   <ul>
     <li><a href="#main">Main Program</a></li>
-     <li><a href="create">Create Employee Details</a></li>
+     <li><a href="#create">Create Employee Details</a></li>
      <li>Get person details</li>
      <li>Get salary details</li>
      <li>validation of name</li>
