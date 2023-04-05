@@ -41,5 +41,6 @@
 <li>Allocate the memory of size struct <i>emp</i> to "new_emp".</li>
 <li>Allocate the memory of size struct <i>sal</i> to struct sal variable in "new_emp".</li>
 <li>Allocate the memory of size struct <i>psn</i> to struct psn variable in "new_emp".</li>
-
+<li>Call <i>get_psn</i> function by passing adress of struct psn variable in "new_emp" to get person details. </li>
+  <li>Call <i>get_sal</i> function by passing adress of struct sal variable in "new_emp" to get salary details. </li>
 </ol>
