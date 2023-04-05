@@ -9,7 +9,7 @@
     <li><a href="#main">Main Program</a></li>
      <li><a href="#create">Create Employee Details</a></li>
      <li><a href="#getpsn">Get Person Details</a></li>
-     <li>Get salary details</li>
+     <li><a href="#getsal">Get Salary Details</a></li>
      <li>validation of name</li>
      <li>validation of date</li>
      <li>Print the employee details</li>
@@ -42,7 +42,7 @@
 <li>Allocate the memory of size struct <i>sal</i> to struct sal variable in "new_emp".</li>
 <li>Allocate the memory of size struct <i>psn</i> to struct psn variable in "new_emp".</li>
 <li>Call <i>get_psn</i> function by passing adress of struct psn variable in "new_emp" to get person details. </li>
-  <li>Call <i>get_sal</i> function by passing adress of struct sal variable in "new_emp" to get salary details. </li>
+  <li>Call <i>get_sal</i> function by passing adress of struct sal, struct psn variables in "new_emp" to get salary details. </li>
 </ol>
 
 <h4 id="getpsn">Get Person Details</h4>
@@ -50,6 +50,17 @@
   <li>Get firstname from user input into address of struct <i>psn</i> "fname" variable.</li>
   <li>Call <i>checkpsn_name</i> function for validation by passing the "fname" address.</li>
   <li>Get lastname from user input into address of struct <i>psn</i> "lname" variable.</li>
+  <li>Call <i>checkpsn_name</i> function for validation by passing "lname" address.</li>
+  <li>Get date-of-birth from user input into address of struct <i>psn</i> "dob" variable.</li>
+  <li>Call <i>check_dov</i> funciton for validating the date by passing "dob" variable as argument. </li>
+</ol>
+
+<h4 id="getsal">Get Salary Details</h4>
+<ol>
+  <li>Get initial salary from user input into address of struct <i>sal</i> "initial" variable.</li>
+  <li>Call <i>check_sal</i> function for validation by passing the "initial" value.</li>
+  <li>If valid got next step else repeat the above 2 steps.</li>
+  <li>Get percentage from user input into address of struct <i>sal</i> "lname" variable.</li>
   <li>Call <i>checkpsn_name</i> function for validation by passing "lname" address.</li>
   <li>Get date-of-birth from user input into address of struct <i>psn</i> "dob" variable.</li>
   <li>Call <i>check_dov</i> funciton for validating the date by passing "dob" variable as argument. </li>
