@@ -47,5 +47,7 @@
 
 <h4 id="getpsn">Get Person Details</h4>
 <ol>
-  <li></li>
+  <li>Get firstname from user input and call <i>checkpsn_name</i> function for validation.</li>
+  <li>Get lastname from user input and call <i>checkpsn_name</i> function for validation.</li>
+  <li>Get date-of-birth from user input and call <i>check_dov</i> funciton for validating the date. </li>
 </ol>
