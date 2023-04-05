@@ -47,7 +47,10 @@
 
 <h4 id="getpsn">Get Person Details</h4>
 <ol>
-  <li>Get firstname from user input and call <i>checkpsn_name</i> function for validation.</li>
-  <li>Get lastname from user input and call <i>checkpsn_name</i> function for validation.</li>
-  <li>Get date-of-birth from user input and call <i>check_dov</i> funciton for validating the date. </li>
+  <li>Get firstname from user input into address of struct <i>psn</i> "fname" variable.</li>
+  <li>Call <i>checkpsn_name</i> function for validation by passing the "fname" address.</li>
+  <li>Get lastname from user input into address of struct <i>psn</i> "lname" variable.</li>
+  <li>Call <i>checkpsn_name</i> function for validation by passing "lname" address.</li>
+  <li>Get date-of-birth from user input into address of struct <i>psn</i> "dob" variable.</li>
+  <li>Call <i>check_dov</i> funciton for validating the date by passing "dob" variable as argument. </li>
 </ol>
