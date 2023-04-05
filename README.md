@@ -15,6 +15,7 @@
 <h3 id="algorithm">Algorithm</h3>
 <ol>
 <li>Start the Program.</li>
-<li>Create structure for person details as <i>pn</i> including firstname,lastname,date-of-birth and assign a variable to structure as <i>pn</i></li>
-<li>Create structure </li>
+<li>Create structure for person details as <i>person</i> including firstname,lastname,date-of-birth and assign a variable to structure as <i>psn</i></li>
+<li>Create structure for salary details as <i>salary</i> including initial salary,increment percentage,current salary,date-of-joining and assign a variable to structure as <i>sal</i> </li>
+<li>Create structure for employee details as <i>employee</i> including pointer variable of type struct person, pointer variable of type struct salary and assign a variable to structure as <i>emp</i> </li>
 </ol>
