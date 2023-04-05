@@ -61,7 +61,7 @@
   <li>Call <i>check_sal</i> function for validation by passing the "initial" value.</li>
   <li>If valid got next step else repeat the above 2 steps.</li>
   <li>Get increment from user input into address of struct <i>sal</i> "increment" variable.</li>
-  <li>Check</li>
-  <li>Get date-of-birth from user input into address of struct <i>psn</i> "dob" variable.</li>
-  <li>Call <i>check_dov</i> funciton for validating the date by passing "dob" variable as argument. </li>
+  <li>Check if the increment value is valid or not. if valid got next step else repeat above step.</li>
+  <li>Get date-of-joining from user input into address of struct <i>sal</i> "doj" variable.</li>
+  <li>Call <i>check_dov</i> funciton for validating the date by passing "doj" variable as argument. </li>
 </ol>
