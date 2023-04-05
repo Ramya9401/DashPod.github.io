@@ -8,7 +8,7 @@
   <ul>
     <li>Main Program</li>
      <li>Create employee details</li>
-     <li>Get person detaisl</li>
+     <li>Get person details</li>
      <li>Get salary details</li>
      <li>validation of name</li>
      <li>validation of date</li>
@@ -24,6 +24,7 @@
 
 <br>
 <h3 id="algorithm">Algorithms</h3>
+<h4>1.Main Program</h4>
 <ol>
 <li>Start the Program.</li>
 <li>Create structure for person details as <i>person</i> including firstname,lastname,date-of-birth and assign a variable to structure as <i>psn</i>.</li>
