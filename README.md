@@ -10,8 +10,8 @@
      <li><a href="#create">Create Employee Details</a></li>
      <li><a href="#getpsn">Get Person Details</a></li>
      <li><a href="#getsal">Get Salary Details</a></li>
-     <li><a href="#valname">validation of name</a></li>
-     <li>validation of date</li>
+     <li><a href="#valname">Validation of name</a></li>
+     <li><a href="#valdate">Validation of Date</a></li>
      <li>Print the employee details</li>
     </ul>
   </li>
@@ -68,7 +68,19 @@
 
 <h4 id="valname">Validation of Name</h4>
 <ol>
-  <li>Declare a int variable i.</li>
-  <li>check if each character in the input given is a alphabet.</li>
-  <li>if yes name is valid else re-enter the name and check for its validity by repeating above step.</li>
+  <li>Declare a int variable 'i'.</li>
+  <li>Check if each character in the input given is a alphabet.</li>
+  <li>If yes name is valid else re-enter the name and check for its validity by repeating above step.</li>
+</ol>
+
+
+<h4 id="valdate">Validation of Date</h4>
+<ol>
+  <li>Decare a int variable 'i'.</li>
+  <li>Check if given day is within 1 to 31.</li>
+  <li>If valid check month else re-enter the date.</li>
+  <li>Check if given month is within 1 to 12. </li>
+  <li>If valid check year else re-enter the date.</li>
+   <li>Check if given year is within mentioned range. </li>
+  <li>If present it is valid else re-enter the date.</li>
 </ol>
