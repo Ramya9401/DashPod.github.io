@@ -69,5 +69,6 @@
 <h4 id="valname">Validation of Name</h4>
 <ol>
   <li>Declare a int variable i.</li>
-  <li></li>
+  <li>check if each character in the input given is a alphabet.</li>
+  <li>if yes name is valid else re-enter the name and check for its validity by repeating above step.</li>
 </ol>
