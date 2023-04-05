@@ -7,7 +7,7 @@
 <li><a href="#algorithm">Algorithms</a>
   <ul>
     <li><a href="#main">Main Program</a></li>
-     <li>Create employee details</li>
+     <li><a href="create">Create Employee Details</a></li>
      <li>Get person details</li>
      <li>Get salary details</li>
      <li>validation of name</li>
@@ -34,4 +34,12 @@
 <li>Assign address of "emp1" to "new_emp".</li>
 <li>Call <i>Create</i> function passing the adress of "new_emp" as argument.</li>
 <li>Call <i>Print</i> function passing the adress of "new_emp" as argument.</li>
+</ol>
+
+<h4 id="create">Create Employee Details</h4>
+<ol>
+<li>Allocate the memory of size struct <i>emp</i> to "new_emp".</li>
+<li>Allocate the memory of size struct <i>sal</i> to struct sal variable in "new_emp".</li>
+<li>Allocate the memory of size struct <i>psn</i> to struct psn variable in "new_emp".</li>
+
 </ol>
