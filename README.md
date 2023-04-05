@@ -60,8 +60,8 @@
   <li>Get initial salary from user input into address of struct <i>sal</i> "initial" variable.</li>
   <li>Call <i>check_sal</i> function for validation by passing the "initial" value.</li>
   <li>If valid got next step else repeat the above 2 steps.</li>
-  <li>Get percentage from user input into address of struct <i>sal</i> "lname" variable.</li>
-  <li>Call <i>checkpsn_name</i> function for validation by passing "lname" address.</li>
+  <li>Get increment from user input into address of struct <i>sal</i> "increment" variable.</li>
+  <li>Check</li>
   <li>Get date-of-birth from user input into address of struct <i>psn</i> "dob" variable.</li>
   <li>Call <i>check_dov</i> funciton for validating the date by passing "dob" variable as argument. </li>
 </ol>
