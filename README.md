@@ -20,7 +20,7 @@
 <p>The document briefs you on the program <b>Employee Details</b> using Structures. This program explains the usage of structure within structure and accesing of variables using pointers.</p><br>
 
 <h3 id="Flowchart">Flow Chart</h3>
-
+![flowchart 1](/home/ubuntu1212/Downloads/structures flowchart_page-0001.jpg)
 <br>
 <h3 id="algorithm">Algorithms</h3>
 <h4 id="main">Main Program</h4>
