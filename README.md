@@ -21,6 +21,11 @@
 
 <h3 id="Flowchart">Flow Chart</h3>
 <img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0001.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0002.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0003.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0004.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0005.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0006.jpg" >
 <br>
 <h3 id="algorithm">Algorithms</h3>
 <h4 id="main">Main Program</h4>
