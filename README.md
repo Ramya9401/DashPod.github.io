@@ -17,10 +17,15 @@
     </ol><br>
 
 <h3 id="Introduction">Introduction</h3>
-<p>The document briefs you on the program <b>Employee Details</b> using Structures. This program explains the usage of structure within structure and accesing of variables using pointers.</p><br>
+<p>The document briefs you on the program <b>Employee Details</b> using Structures. This program explains the usage of structure within structure and accesing of variables using pointers. Here we are creating two structures for person, salary details and another structure for accesing the already defined structures. The data is taken from user input and data is being validated. If data is valid the program proceeds else it repeats till valid is given.</p><br>
 
 <h3 id="Flowchart">Flow Chart</h3>
-![flowchart 1](/home/ubuntu1212/Downloads/structures flowchart_page-0001.jpg)
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0001.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0002.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0003.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0004.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0005.jpg" >
+<img src="https://github.com/Ramya9401/Structure_github.io/blob/master/structures%20flowchart_page-0006.jpg" >
 <br>
 <h3 id="algorithm">Algorithms</h3>
 <h4 id="main">Main Program</h4>
